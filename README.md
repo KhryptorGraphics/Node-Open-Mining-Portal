@@ -1,4 +1,4 @@
-## This repo is looking for maintainers! Please reach out if interested.
+NEW NOMP UPDATED TO WORK WITH NODEJS V18.15.0
 
 --------
 
